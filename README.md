@@ -1,2 +1,2 @@
 # DiscordBot
-A Music Bot for Discord
+A Music Bot built using Discord API
